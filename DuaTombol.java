@@ -9,8 +9,8 @@ public class DuaTombol{
 
 	public static void main(String [] args){
 
-		DuaTombol gui = new DuaTombol();
-		gui.go();
+		DuaTombol tombol = new DuaTombol();
+		tombol.go();
 	}
 
 	public void go(){
